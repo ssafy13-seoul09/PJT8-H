@@ -13,3 +13,5 @@
 ## 간트 차트
 
 ## 화면 설계
+
+[Figma 링크](https://www.figma.com/design/uz4czC6KiHD6Fj6J8VLZOX/%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C?node-id=0-1&t=REShD6PQp54Uoifp-1)
